@@ -8,7 +8,12 @@
 	<meta name="description" content="{{ site.app_description }}">
 	
 	<link rel="shortcut icon" href="{{ site.app_icon | relative_url }}">
-	<meta name="robots" content="noindex">
+	<meta name="robots" content="noindex,nofollow">
+	<meta name="AdsBot-Google" content="noindex,nofollow">
+	<meta name="google" content="nositelinkssearchbox">
+	<meta name="googlebot" content="notranslate">
+	<meta name="google" content="nopagereadaloud">
+	
 	<!-- Smart App Banner -->
 	{% if site.enable_smart_app_banner %}
 		<meta name="apple-itunes-app" content="app-id={{ site.ios_app_id }}">
