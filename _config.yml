@@ -1,0 +1,132 @@
+#page title
+page_title                                : Alfazza Fashion Official Store            # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+
+# App Info
+ios_app_id                                : 785385147                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_country                           : id                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+
+appstore_link                             : https://apps.apple.com/id/app/lazada-2-2-festival/id785385147?l=id                                        # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            : https://play.google.com/store/apps/details?id=com.lazada.android                                          # Enter Google Play Store URL.
+presskit_download_link                    : https://alfazzafashion.github.io/GreatRecite/  # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+
+app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Alfazza Fashion | Lazada ID               # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Belanja di App banyak untungnya                                                                                    
+                                            Banyak Vouchernya
+                                            Produk Eksklusif di App
+                                            Rekomendasi Hanya Untukmu
+                                            Paling Pertama Dapat Promo 
+                                            Download Aplikasinya dan Belanja Sekarang!
+
+enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
+
+
+
+# Information About Yourself
+your_name                                 : Alfazza Fashion                          
+your_link                                 : https://github.com/alfazzafashion                 
+your_city                                 : West Java | Indonesia                     
+email_address                             : alfazza967@gmail.com
+facebook_username                         : alfazzafashion2021
+instagram_username                        : alfazza967
+twitter_username                          : alfazzafashion
+github_username                           : alfazzafashion
+youtube_username                          : UCTFyZAXdImfeTiXcruYgaSQ
+
+
+
+# Feature List                            Edit, add or remove features to be presented.
+features                                  :
+
+  - title                                 : Alfazza Fashion Official Store | Lazada ID
+    description                           : Situs Belanja Online Fashion & Gaya Hidup. Kunjungi Alfazza Fashion di <a href="https://www.lazada.co.id/alfazza-fashions" alt="Alfazza Fashion Official Store" target="_blank">Lazada</a>
+    fontawesome_icon_name                 : magic
+    
+  - title                                 : VOUCHER 30RB PENGGUNA BARU
+    description                           : Dapatkan kado spesial khusus buat kamu yang baru install aplikasi Lazada. Ada voucher Rp. 30.000 untuk pembelian pertamamu.
+    fontawesome_icon_name                 : mobile
+
+  - title                                 : CASHBACK TIAP HARI
+    description                           : Cashback setiap hari hingga Rp 35.000. Dapatkan koin tiap kunjungan kamu di aplikasi Lazada untuk ditukar dengan voucher belanja. Belanja banyak makin hemat!
+    fontawesome_icon_name                 : play-circle
+
+  - title                                 : BRAND RESMI & EKSKLUSIF DI LAZMALL
+    description                           : Berbelanja dengan aman dan nyaman berkat jaminan 100% produk asli dari brand favorit kamu dengan kelebihan produk 100% original, 15 hari pengembalian dan 1 hari pengiriman.
+    fontawesome_icon_name                 : sync
+
+  - title                                 : REKOMENDASI SPESIAL UNTUKMU
+    description                           : Belanja lebih mudah dan nyaman dengan koleksi produk, kategori dan brand resmi yang sudah kurasi sesuai kesukaan dan kebutuhan kamu, hadir langsung di halaman depan aplikasi Lazada.
+    fontawesome_icon_name                 : adjust
+  
+  - title                                 : LIVESTREAMING
+    description                           : Tonton Live Streaming dari LazLive dan dari fitur seller in feed dan jadi yang pertama tahu tentang produk terbaru secara langsung dan dapatkan pula voucher eksklusif saat live streaming berlangsung.
+    fontawesome_icon_name                 : star
+
+  - title                                 : GARANSI KEPUASAN BELANJA
+    description                           : Aplikasi Lazada juga menampilkan review produk dari konsumen asli, rating seller dan fitur chat langsung dengan seller.
+    fontawesome_icon_name                 : arrow-alt-circle-down
+
+  - title                                 : PEMBAYARAN AMAN TERPERCAYA
+    description                           : Bebaskan rasa khawatir kamu dengan metode pembayaran yang lengkap dan nyaman seperti COD (bayar di tempat), Lazada credit, bank transfer, kartu kredit, bayar di minimarket dan aplikasi dompet virtual lainnya.
+    fontawesome_icon_name                 : link
+
+  - title                                 : VOUCHER DISKON & FLASH SALE SETIAP HARI
+    description                           : Belanja lebih hemat dari sebelumnya dengan harga lebih paling murah setiap hari dengan voucher diskon, flash sale dan gratis ongkos kirim se-Indonesia.
+    fontawesome_icon_name                 : circle
+
+
+
+# Theme Settings
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.1
+topbar_title_color                        : "#ffffff"
+
+cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#363b3d"
+cover_overlay_transparency                : 0.8
+
+device_color                              : yellow                                     # Set to: blue, black, yellow, coral or white.
+
+body_background_color                     : "#ffffff"
+
+link_color                                : "#1d63ea"
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
+
+feature_title_color                       : "#000000"
+feature_text_color                        : "#666666"
+
+feature_icons_foreground_color            : "#1d63ea"
+feature_icons_background_color            : "#e6e6e6"
+
+social_icons_foreground_color             : "#666666"
+social_icons_background_color             : "#e6e6e6"
+
+footer_text_color                         : "#666666"
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown
