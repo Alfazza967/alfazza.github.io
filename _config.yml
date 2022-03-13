@@ -108,9 +108,7 @@ social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
 
-url: "https://alfazza967.github.io" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
+
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
 ####################################################
