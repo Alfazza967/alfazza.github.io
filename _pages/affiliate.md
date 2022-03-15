@@ -5,7 +5,7 @@ include_in_header: true
 ---
 # [AFFILIASI:](https://docs.google.com/forms/d/e/1FAIpQLSfCEHuhsYAs39LxJBAxbZuwW2LLoFpWJzwxvwyOYJHNk6fo2w/viewform?usp=pp_url) Mari bergabung dan saling berbagi daftar sekarang juga dengan [affiliator kami](http://adf.ly/13085395/).
 | Lazada | Shopee | Blibli |
-| :----: | :----: | :----: |
+| :---- | :---- | :---- |
 | <a href="https://www.lazada.co.id/alfazza-fashions" rel="noopener noreferrer" target="_blank">Alfazza Fashion</a><br /><img alt="Image" height="80" src="https://id-test-11.slatic.net/shop/fd54784d861a68a7a0450f38e296d5b9.png_80x80q80.jpg_.webp" width="80" /> | 
 <a href="https://shopee.co.id/selmicollection" rel="noopener noreferrer" target="_blank">Selmi Collection</a><br /><img alt="selmicollection" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSdsj9Y_J7TI4uyhjykIWdjSAqNt07cFINw&amp;usqp=CAU" width="80" /> | 
 <a href="https://www.blibli.com/merchant/ayuni/AYI-70008" rel="noopener noreferrer" target="_blank">Ayuni Fashion</a><br /><img alt="ayunifashion" height="80" src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/mlogo/AYI-70008-c3f15060-4679-4fbb-936a-6f90617d30b5.png" width="80" /> | 
