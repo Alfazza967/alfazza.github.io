@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://www.lazada.co.id/alfazza-fashions">
-    <img src="android-chrome-512x512.png" alt="Logo" width="80" height="80">
+    <img src="/assets/android-chrome-512x512.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Alfazza Fashion</h3>
   <p align="center">
@@ -33,11 +33,11 @@
     <br />
     <a href="#about-alfazza-fashion">👨‍👨‍👧 About Us</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">📝 Report Error</a>
+    <a href="#README-Template/issues">📝 Report Error</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/pulls">👌Feature Request</a>
     .
-    <a href="https://github.com/alfazzafashion/alfazzafashion.wiki.git">🌏 Wiki</a>
+    <a href="https://github.com/alfazzafashion/alfazzafashion.wiki">🌏 Wiki</a>
   </p>
 </div>
 
