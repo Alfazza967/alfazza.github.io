@@ -59,6 +59,7 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="https://alfazzafashion.github.io/islamdownload.net/">Download File Islami</a></li>
+    <li><a href="https://alfazzafashion.github.io/app/snake.html">Small Game PLAY</a></li>
     </ol>
 </details>
 
@@ -67,8 +68,7 @@
       <ul>
         <li><a href="https://alfazzafashion.github.io/small-SEO-tools">Small-SEO</a></li>
         <li><a href="https://github.com/alfazzafashion/AutoVisitor/archive/refs/heads/main.zip">AutoVisitor [Windows]</a></li>
-        <li><a href="https://alfazzafashion.github.io/app/snake.html/">Small Game PLAY</a></li>
-   </ul>
+      </ul>
  </details>
 
 ![Twitch Status](https://img.shields.io/twitch/status/readloud?style=social)
