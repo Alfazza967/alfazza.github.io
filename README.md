@@ -7,6 +7,16 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
+![GitHub Contexts](https://img.shields.io/github/status/contexts/pulls/readloud/readloud.github.io/1?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/readloud?label=Follow)
+![GitHub Forks](https://img.shields.io/github/forks/readloud/readloud?label=Fork)
+![GitHub Repo Stars](https://img.shields.io/github/stars/readloud/readloud?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/readloud?affiliations=OWNER%2CCOLLABORATOR)
+![GitHub Org's stars](https://img.shields.io/github/stars/readloud?style=social)
+![GitHub Watchers](https://img.shields.io/github/watchers/oneplus-x/phpsploit?label=Watch)
+[![prouser123](https://img.shields.io/badge/prouser123.me-misc-green)](https://prouser123.me/misc/mastodon-userid-lookup.html)
+[![Shield.io](https://img.shields.io/badge/shield.io-build-orang.svg?style=sociale)](https://shields.io/category/build)
+
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
