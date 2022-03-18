@@ -212,7 +212,7 @@ Lihat [syarat dan ketentuan](https://pages.lazada.co.id/wow/gcp/route/lazada/id/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Sumber daya yang bermanfaat termasuk beberapa favorit saya untuk memulai!
+Sumber daya yang bermanfaat untuk memulai!
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
