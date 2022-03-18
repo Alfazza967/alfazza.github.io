@@ -28,16 +28,13 @@
   <p align="center">
  Situs Belanja Online untuk Fashion & Gaya Hidup
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Dokumentasi »</strong></a>
-    <br />
-    <br />
     <a href="#about-alfazza-fashion">👨‍👨‍👧 About Us</a>
     ·
-    <a href="#README-Template/issues">📝 Report Error</a>
+    <a href="https://github.com/alfazzafashion/app/issues">📝 Report Error</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/pulls">👌Feature Request</a>
+    <a href="https://github.com/alfazzafashion/app/pulls">👌Feature Request</a>
     .
-    <a href="https://github.com/alfazzafashion/alfazzafashion.wiki">🌏 Wiki</a>
+    <a href="https://github.com/alfazzafashion/app/wiki">🌏 Wiki</a>
   </p>
 </div>
 
