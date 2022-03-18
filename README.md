@@ -1,10 +1,11 @@
 <div id="top"></div>
+<!-- PROJECT SHIELDS -->
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
 ![GitHub Contexts](https://img.shields.io/github/status/contexts/pulls/readloud/readloud.github.io/1?style=social)
@@ -17,31 +18,11 @@
 [![prouser123](https://img.shields.io/badge/prouser123.me-misc-green)](https://prouser123.me/misc/mastodon-userid-lookup.html)
 [![Shield.io](https://img.shields.io/badge/shield.io-build-orang.svg?style=sociale)](https://shields.io/category/build)
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-![Mastodon Follow](https://img.shields.io/mastodon/follow/000013179?domain=https%3A%2F%2Fmastodon.social&style=social)
-![Twitch Status](https://img.shields.io/twitch/status/alfazzafashion?style=social)
-![Twitter URL](https://img.shields.io/twitter/url?url=https://twitter.com/alfazzafashion?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/alfazzafashion?label=Follow)
-![Instagram Folowers](https://img.shields.io/badge/instagram-folowers-orange.svg?url=https://instagram.com/alfazza967?style=social)
-![Pinterest](https://img.shields.io/badge/pinterest-pin-red.svg?url=https://pinterest.com/alfazza967?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTFyZAXdImfeTiXcruYgaSQ)
-![YouTube Video Comments](https://img.shields.io/youtube/comments/2Ije_681Wok)
-![YouTube Video Likes](https://img.shields.io/youtube/likes/2Ije_681Wok)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTFyZAXdImfeTiXcruYgaSQ)
-![YouTube Video Views](https://img.shields.io/youtube/views/2Ije_681Wok)
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://www.lazada.co.id/alfazza-fashions">
-    <img src="https://github.com/alfazzafashion/alfazzafashion/blob/main/android-chrome-512x512.png" alt="Logo" width="80" height="80">
+    <img src="android-chrome-512x512.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Alfazza Fashion</h3>
   <p align="center">
@@ -50,41 +31,70 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Dokumentasi »</strong></a>
     <br />
     <br />
-    <a href="https://alfazzafashion.github.io">Beranda</a>
+    <a href="#about-alfazza-fashion">👨‍👨‍👧 About Us</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Laporkan Kesalahan</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">📝 Report Error</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/pulls">Permintaan Fitur</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/pulls">👌Feature Request</a>
+    .
+    <a href="https://github.com/alfazzafashion/alfazzafashion.wiki.git">🌏 Wiki</a>
   </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Menu</summary>
   <ol>
-    <li><a href="#about-alfazza-fashion">About Alfazza Fashion</a></li>
+    <li><a href="https://alfazza967.github.io">Beranda</a></li>
     <li><a href="#Promo">Promo</a></li>
     <li><a href="#marketplace">Marketplace</a></li>
-    <li><a href="#layanan-pelanggan">Layanan Pelanggan</a></li>
+    <li>Layanan Pelanggan</li>
     <ul>
         <li><a href="#pembayaran">Pembayaran</a></li>
         <li><a href="#pengiriman">Pengiriman</a></li>
         <li><a href="#pengembalian-produk">Pengembalian Produk</a></li>
-   </ul>
+    </ul>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+    <li><a href="https://alfazzafashion.github.io/islamdownload.net/">Download File Islami</a></li>
+    </ol>
 </details>
+
+<details>
+<summary>SEO Tools</summary>
+      <ul>
+        <li><a href="https://alfazzafashion.github.io/small-SEO-tools">Small-SEO</a></li>
+        <li><a href="https://github.com/alfazzafashion/AutoVisitor/archive/refs/heads/main.zip">AutoVisitor [Windows]</a></li>
+        <li><a href="https://alfazzafashion.github.io/alfazzafashion/snake.html/">Small Game PLAY</a></li>
+   </ul>
+ </details>
+
+![Twitch Status](https://img.shields.io/twitch/status/readloud?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/readloud?label=Follow)
+![Instagram Folowers](https://img.shields.io/badge/instagram-folowers-orange.svg?style=social)
+[![Pinterest](https://img.shields.io/badge/pinterest-pin-red.svg?style=social)](https://shields.io/category/build)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTFyZAXdImfeTiXcruYgaSQ)
+![YouTube Video Comments](https://img.shields.io/youtube/comments/2Ije_681Wok)
+![YouTube Video Likes](https://img.shields.io/youtube/likes/2Ije_681Wok)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTFyZAXdImfeTiXcruYgaSQ)
+![YouTube Video Views](https://img.shields.io/youtube/views/2Ije_681Wok)
+![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/readloud?style=social)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/000013179?domain=https%3A%2F%2Fmastodon.social&style=social)
+![Reddit User Karma](https://img.shields.io/badge/reddit/user-karma/industry/readloud?style=social)
+![Subreddit Subscribers](https://img.shields.io/badge/reddit/subreddit-subscribers/readloud?style=social)
+![Keybase BTC](https://img.shields.io/keybase/btc/readloud?style=social)
+![Keybase PGP](https://img.shields.io/keybase/pgp/readloud?style=social)
+![Keybase XLM](https://img.shields.io/keybase/xlm/readloud?style=social)
+![Keybase ZEC](https://img.shields.io/keybase/zec/readloud?style=social)
 
 <!-- ABOUT THE PROJECT -->
 ## About Alfazza Fashion
-KAMI ADALAH BRAND LOKAL INDONESIA YANG TERINSPIRASI DARI KALIAN SEMUA.
+KAMI ADALAH [BRAND](https://lazada.co.id/alfazza-fashions) LOKAL INDONESIA YANG TERINSPIRASI DARI ANDA.
 <br />
 Tujuan Kami untuk membuat Anda tampil lebih MENARIK MODIS dan BERGAYA dengan apa yang Anda Kenakan.
- 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Promo
 
@@ -94,7 +104,7 @@ Tujuan Kami untuk membuat Anda tampil lebih MENARIK MODIS dan BERGAYA dengan apa
 * Aman, Nyaman, Kamu Pasti Keenakan!
 * Murah Nampol
 * Belanja Hemat Tiap Hari
-* Gratis Ongkir Hanya di Alfazza Fashion | Lazada!
+* Gratis Ongkir Hanya di Alfazza Fashion - Lazada!
 * Everyday Flash Sale
 * Diskon Menggila Gak Ketolongan?
 * Voucher Gratis Ongkir
@@ -103,8 +113,8 @@ Tujuan Kami untuk membuat Anda tampil lebih MENARIK MODIS dan BERGAYA dengan apa
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Marketplace
-Visit Alfazza Fashions on Lazada.
-* [Alfazza Fashion](https://www.lazada.co.id/alfazza-fashions)
+Visit Us on Available Marketplace Below:
+* [Alfazza Fashion](http://adf.ly/13085395/www.lazada.co.id/alfazza-fashions)
 * [Raihan-Fashion-Store](https://www.lazada.co.id/raihan-fashion-store)
 * [COD-FS](https://www.lazada.co.id/cod-fashion-store)
 * [BDG102](https://www.lazada.co.id/bdg102)
@@ -217,5 +227,3 @@ Sumber daya yang bermanfaat termasuk beberapa favorit saya untuk memulai!
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-[MARKDOWN LINKS & IMAGES](https://www.markdownguide.org/basic-syntax/#reference-style-links)
