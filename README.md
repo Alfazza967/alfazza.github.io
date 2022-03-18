@@ -45,7 +45,7 @@
 <details>
   <summary>Menu</summary>
   <ol>
-    <li><a href="https://alfazza967.github.io">Beranda</a></li>
+    <li><a href="https://alfazzafashion.github.io/app">Beranda</a></li>
     <li><a href="#Promo">Promo</a></li>
     <li><a href="#marketplace">Marketplace</a></li>
     <li>Layanan Pelanggan</li>
@@ -67,7 +67,7 @@
       <ul>
         <li><a href="https://alfazzafashion.github.io/small-SEO-tools">Small-SEO</a></li>
         <li><a href="https://github.com/alfazzafashion/AutoVisitor/archive/refs/heads/main.zip">AutoVisitor [Windows]</a></li>
-        <li><a href="https://alfazzafashion.github.io/alfazzafashion/snake.html/">Small Game PLAY</a></li>
+        <li><a href="https://alfazzafashion.github.io/app/snake.html/">Small Game PLAY</a></li>
    </ul>
  </details>
 
